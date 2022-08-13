@@ -1,3 +1,16 @@
-* {
-    margin: 0%;
+.firstClass {
+    background-color: fuchsia;
+    margin: 20px;
+    /* padding: 20px; */
 }
+
+#firstId {
+    background-color: greenyellow;
+}
+
+
+
+
+/* .fsecondClass {
+
+} */
